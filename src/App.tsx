@@ -1,6 +1,6 @@
 function App() {
   return (
-    <div>a
+    <div className="text-3xl">a
     </div>
   );
 }
